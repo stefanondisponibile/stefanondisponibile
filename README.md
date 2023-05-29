@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
    <h1>Hey, I'm Stefano! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
 </div>
 
