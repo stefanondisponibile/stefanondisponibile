@@ -3,7 +3,7 @@
    <h1>cheers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 </div>
 
-<img src="https://www.honeybadger.io/images/headshots/stefanofrassetto.png?1685324456" />
+<!-- <img src="https://www.honeybadger.io/images/headshots/stefanofrassetto.png?1685324456" /> -->
 
 
 
