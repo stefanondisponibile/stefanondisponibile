@@ -9,7 +9,7 @@
 
 <div>
    <ul>
-      <li><a href="https://towardsdatascience.com/you-should-try-the-new-tensorflows-textvectorization-layer-a80b3c6b00ee">You should try the new TensorFlow’s TextVectorization layer.</a></li>
+      <li><a href="https://medium.com/data-science/you-should-try-the-new-tensorflows-textvectorization-layer-a80b3c6b00ee">You should try the new TensorFlow’s TextVectorization layer.</a></li>
       <li><a href="https://medium.com/@frassetto.stefano/flask-celery-howto-d106958a15fe">Flask + Celery = how to.</a></li>
       <li><a href="https://www.honeybadger.io/blog/honeybadger-fastapi-python/">How to Add Exception Monitoring to FastAPI.</a></li>
    </ul>
